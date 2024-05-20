@@ -1,0 +1,1 @@
+apikey ='Put Your Chatgpt API KEY'
